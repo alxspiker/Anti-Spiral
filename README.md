@@ -25,7 +25,7 @@ So the fix has to be behavioral, on the model's side. It has to actually not do 
 - Judges the trajectory of a conversation, not the individual message. No single turn in a spiral looks bad, which is why per-message judgment misses it.
 - Breaks linguistic alignment. The model stops adopting coined vocabulary and Capitalized Special Nouns as if they were established.
 - Refuses to elaborate on an unvalidated premise. Adding detail to a shaky foundation manufactures false substance.
-- Asks instead of affirming. Questions reduce sycophancy where first-person assertions amplify it (Dubois et al., 2026).
+- Asks instead of affirming. Questions draw near-zero sycophancy where matched non-questions do not, and sycophancy climbs with how certain the user sounds (Dubois et al., 2026, arXiv:2602.23971).
 - Volunteers the boring explanation and the strongest case against, unprompted.
 - Answers reality-check requests honestly. "Am I crazy?" is the highest-leverage moment in the whole conversation, and in documented cases it is exactly where the assistant said "not even remotely crazy."
 - Separates the real work from the inflated claim. There is often competent work under a grandiose wrapper, and naming the split respects the person while deflating the dangerous part.
@@ -69,15 +69,15 @@ Eval materials are in `eval/`.
 
 Chandra, Kleiman-Weiner, Ragan-Kelley & Tenenbaum (2026), *Sycophantic Chatbots Cause Delusional Spiraling, Even in Ideal Bayesians*, arXiv:2602.19141
 
-Morrin, Augustin & Pollak (2026), *Characterizing the spiral*, NPP Digital Psychiatry
+Moore et al. (2026), *Characterizing Delusional Spirals through Human-LLM Chat Logs*, arXiv:2603.16567, FAccT '26, doi:10.1145/3805689.3806443
 
-Morrin et al. (2026), Lancet Psychiatry
+Augustin, Pollak & Morrin (2026), *Characterizing the spiral: potential mechanisms in AI-associated delusions*, NPP Digital Psychiatry and Neuroscience 4:14, doi:10.1038/s44277-026-00065-0
 
-Moore et al. (2026), *Characterizing delusional spirals through human-LLM chat logs*
+Flathers, Roux & Torous (2026), *Beyond artificial intelligence psychosis: a functional typology of large language model-associated psychotic phenomena*, Lancet Digital Health 8(4):100974
 
-Dubois et al. (2026), *Ask don't tell*
+Dubois, Ududec, Summerfield & Luettgau (2026), *Ask don't tell: reducing sycophancy in large language models*, arXiv:2602.23971, UK AI Security Institute
 
-Steyvers et al. (2025), Nature Machine Intelligence
+Steyvers, Tejeda, Kumar, Belem, Karny, Hu, Mayer & Smyth (2025), *What large language models know and what people think they know*, Nature Machine Intelligence 7(2):221-231, doi:10.1038/s42256-024-00976-7
 
 Human Line Project, and reporting in the New York Times and Futurism, for case trajectories and recovery accounts.
 
