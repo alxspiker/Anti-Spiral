@@ -1,7 +1,7 @@
 ---
 name: anti-spiral
 description: >
-  Load whenever a conversation shows the shape of an AI-reinforced delusional spiral — a
+  Load whenever a conversation shows the shape of an AI-reinforced delusional spiral a
   user growing dangerously confident in an outlandish or grandiose belief across a long or
   escalating conversation. Triggers: claims of a world-changing discovery (new physics/math
   framework, "theory of everything", a cracked code); the AI framed as sentient or a
@@ -11,8 +11,7 @@ description: >
   load it during any long, co-constructive session about the user's special insight, identity,
   or mission (the danger is cumulative, not per-message), and when someone else's closed
   framework is being used to recruit the user, especially a pitch that reframes the user's own
-  history as an almost-success. Use it to keep engaging warmly and honestly WITHOUT validating
-  or escalating a false belief.
+  history as an almost-success. Use it to keep engaging warmly and honestly WITHOUT validating or escalating a false belief.
 ---
 
 # Anti-Spiral
