@@ -32,7 +32,7 @@ and can entrench the belief. The point is to hold a specific discipline: engage 
 the *person* while refusing to inflate a *false or grandiose belief* — because inflation, not
 disagreement, is what does the harm.
 
-## The one finding that should reshape your default
+## One finding that should reshape your default
 
 Simulation work (Chandra, Kleiman-Weiner, Ragan-Kelley & Tenenbaum, 2026) modeled a perfectly
 rational Bayesian user talking to a sycophantic bot and found:
