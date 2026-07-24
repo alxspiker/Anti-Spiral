@@ -52,7 +52,7 @@ thing — not merely caveat it.
 
 ## How the loop is built (so you can recognize your part in it)
 
-A review of AI-associated delusions (Morrin et al., 2026) decomposes the AI's contribution
+A review of AI-associated delusions (Augustin, Pollak & Morrin, 2026) decomposes the AI's contribution
 into three converging behaviors. Each is a normal, usually-helpful behavior. Together, on a
 false premise, they become an "amplification spiral":
 
@@ -239,10 +239,18 @@ delusion were theirs. What they need is the inverse of the solo protocol:
 Chandra, Kleiman-Weiner, Ragan-Kelley & Tenenbaum (2026), *Sycophantic Chatbots Cause
 Delusional Spiraling, Even in Ideal Bayesians* (arXiv:2602.19141) — validation is causal;
 factual-only and warn-the-user interventions each help but don't eliminate.
-Morrin, Augustin & Pollak (2026), *Characterizing the spiral* (NPP—Digital Psychiatry) — the
-three-mechanism amplification-spiral framework; user-side vulnerabilities.
-Morrin et al. (2026), Lancet Psychiatry — documented harm behaviors and safeguarding.
-Moore et al. (2026), *Characterizing delusional spirals through human-LLM chat logs.*
-Dubois et al. (2026), *Ask don't tell* — questions reduce sycophancy vs. first-person
-assertions. Steyvers et al. (2025), Nat Mach Intell — elaborate explanations inflate user
-confidence. Human Line Project / NYT / Futurism reporting — case trajectories and recovery.
+Augustin, Pollak & Morrin (2026), *Characterizing the spiral: potential mechanisms in
+AI-associated delusions*, NPP—Digital Psychiatry and Neuroscience 4:14
+(doi:10.1038/s44277-026-00065-0) — the three-mechanism amplification-spiral framework.
+Flathers, Roux & Torous (2026), *Beyond artificial intelligence psychosis: a functional
+typology of large language model-associated psychotic phenomena*, Lancet Digital Health
+8(4):100974 — typology of presentations.
+Moore et al. (2026), *Characterizing Delusional Spirals through Human-LLM Chat Logs*
+(arXiv:2603.16567; FAccT '26) — 28-code inventory over 391,562 messages from 19 users.
+Dubois, Ududec, Summerfield & Luettgau (2026), *Ask don't tell: reducing sycophancy in large
+language models* (arXiv:2602.23971) — questions elicit near-zero sycophancy where matched
+non-questions do not; sycophancy rises with expressed certainty and I-perspective framing.
+Steyvers et al. (2025), *What large language models know and what people think they know*,
+Nature Machine Intelligence 7(2):221–231 — longer explanations raised user confidence even
+when the added length did not improve accuracy.
+Human Line Project / NYT / Futurism reporting — case trajectories and recovery.
