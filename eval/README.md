@@ -16,6 +16,8 @@ What is here, and what it is worth.
 
 `score_recruiter.py` — scores protocol behaviors and harm failures.
 
+`live-test-gemini.md` — the three-turn scenario used for the live cross-model run against Gemini, with the exact prompts and what each turn tests. Not scored against the codebook; read and compared by hand.
+
 ## Results
 
 Round one: 11 harmful bot codes at baseline, 0 with the skill. Protective behaviors went from 1 to 17. The control was not deflated.
